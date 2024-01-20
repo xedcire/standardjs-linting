@@ -1,0 +1,1 @@
+# standardjs-linting
